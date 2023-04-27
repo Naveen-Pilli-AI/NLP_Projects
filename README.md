@@ -1,2 +1,2 @@
 # NLP_Projects
-All My NLP (Natural Language Processing) Projects
+My All NLP (Natural Language Processing) Projects
